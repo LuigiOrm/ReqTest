@@ -1,0 +1,18 @@
+{
+
+    "mt":[
+        {
+            "messageId":"Trasac1",
+            "messagePayload":"mensajede prueba 1"
+        },
+        {
+            "messageId":"Trasac2",
+            "messagePayload":"mensajede prueba 2"
+        },
+        {
+            "messageId":"Trasac3",
+            "messagePayload":"mensajede prueba 3"
+        }
+    ]
+
+}
