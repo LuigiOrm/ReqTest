@@ -25,6 +25,16 @@
             "lite2MessageId”":"lite2",
             "messageStatus":"SUCCESS"
         }
+    ],
+    "updateSWIFTStatus":[
+        {
+            "messageId":"Trasac123",
+            "messagePayload":"mensajede SWIFT prueba 1"
+        },
+        {
+            "messageId":"Trasac1234",
+            "messagePayload":"mensajede SWIFT prueba 2"
+        }
     ]
 
 }
