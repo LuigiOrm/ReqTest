@@ -13,6 +13,18 @@
             "messageId":"Trasac3",
             "messagePayload":"mensajede prueba 3"
         }
+    ],
+    "uploadStatus":[
+        {
+            "messageId":"Trasac1",
+            "lite2MessageId”":"lite1",
+            "messageStatus":"SUCCESS"
+        },
+        {
+            "messageId":"Trasac2",
+            "lite2MessageId”":"lite2",
+            "messageStatus":"SUCCESS"
+        }
     ]
 
 }
